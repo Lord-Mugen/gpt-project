@@ -29,8 +29,12 @@
   line-height: 30px;
   font-weight: 500;
   font-family: var(--font-family);
-
   margin-top: 2rem;
+  cursor: pointer;
+}
+
+.gpt3__features-heading p:hover {
+  color: #fff;
 }
 
 .gpt3__features-container {

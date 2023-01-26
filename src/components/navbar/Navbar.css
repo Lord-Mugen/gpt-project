@@ -45,6 +45,10 @@
   cursor: pointer;
 }
 
+.gpt3__navbar-links_container p:hover {
+  color: #ff8e75;
+}
+
 .gpt3__navbar-sign button,
 .gpt3__navbar-menu_container button {
   padding: 0.5rem 1rem;
